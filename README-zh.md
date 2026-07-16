@@ -395,6 +395,7 @@ Web 内容访问和自动化功能。支持以 AI 友好格式搜索、抓取和
 - [exoticknight/mcp-file-merger](https://github.com/exoticknight/mcp-file-merger) 📇 🏠 - 文件合并工具，适配AI Chat长度限制
 
 ### 💰 <a name="finance--fintech"></a>金融与金融科技
+- [hbhqq9/bde-score](https://github.com/hbhqq9/bde-score) [![hbhqq9/bde-score MCP server](https://glama.ai/mcp/servers/hbhqq9/bde-score/badges/score.svg)](https://glama.ai/mcp/servers/hbhqq9/bde-score) 🐍 ☁️ - 多因子量化股票分析 MCP 服务器，覆盖美股/港股/A股三大市场。40+财务指标透明0-100综合评分体系。EU AI Act Art.50合规。Streamable HTTP传输。
 
 金融数据访问和加密货币市场信息。支持查询实时市场数据、加密货币价格和财务分析。
 
